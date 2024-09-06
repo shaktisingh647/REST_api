@@ -1,0 +1,3 @@
+<!-- creating a REST api to calculate the emi and creating a addition function such as prepayment , commands used to start the server is npm start through which you can start the server , taken ai help to search for different typers of error status and to tackled some edge cases  -->
+
+<!-- Database - i have used MongoDB here as i have good amount of knowledge in MongoDB as compare to MySQL however i am currently learning MySQL , so i found that i am a little bit more confident in MongoDB -->
